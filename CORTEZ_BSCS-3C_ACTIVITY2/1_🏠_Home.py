@@ -49,7 +49,7 @@ with col1:
     st.write("I love designing and building simple, beautiful applications.")
 
 with col2:
-    st.image("pages\Cortez_Picture1.jpg", caption="My Profile")
+    st.image("CORTEZ_BSCS-3C_ACTIVITY2/pages/Cortez_Picture1.jpg", caption="My Profile")
 
 st.markdown("---")
 
